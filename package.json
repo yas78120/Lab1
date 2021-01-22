@@ -1,0 +1,22 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "practica grupal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olmedo90/practica1.git"
+  },
+  "author": "edson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olmedo90/practica1/issues"
+  },
+  "homepage": "https://github.com/olmedo90/practica1#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
